@@ -1,0 +1,3 @@
+interface Player {
+  String getName();
+}
